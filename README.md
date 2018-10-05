@@ -12,8 +12,7 @@ All files were placed in Assignment2 folder in Clodera's home
 
 
 
-*Execution of DocWordCount************
-
+*************Execution of DocWordCount************
 
 
 
