@@ -1,8 +1,8 @@
 # MapReduce-using-Cloudera
 
-## Read more about WordCount in Cloudera [here](https://www.cloudera.com/documentation/other/tutorial/CDH5/topics/ht_usage.html)
+#### Read about MapReduce [here](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
 
-## Read about MapReduce [here](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)
+#### Read more about WordCount in Cloudera [here](https://www.cloudera.com/documentation/other/tutorial/CDH5/topics/ht_usage.html)
 
 Files used in this assignment
 1. DocWordCount.java
@@ -10,7 +10,6 @@ Files used in this assignment
 3. TFIDF.java
 4. Search.java
 5. Cantrbry file.
-
 
 
 ************Execution of DocWordCount************
